@@ -1,0 +1,16 @@
+PODS:
+  - BaseModule (0.1.0)
+
+DEPENDENCIES:
+  - BaseModule (from `../LocalLib/BaseModule`)
+
+EXTERNAL SOURCES:
+  BaseModule:
+    :path: "../LocalLib/BaseModule"
+
+SPEC CHECKSUMS:
+  BaseModule: 37d8f9a7d2ae0aa82e3371d94d34bf0222bae792
+
+PODFILE CHECKSUM: 90f3a36f835cd9c158ddf1d9cf85ad77502337c6
+
+COCOAPODS: 1.9.1
