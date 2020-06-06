@@ -1,10 +1,13 @@
 # Uncomment the next line to define a global platform for your project
+
+source 'https://e.coding.net/xiaooojun/lib2.git'
+
 platform :ios, '9.0'
 
 target 'ModuleDemo' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
- pod 'BaseModule', :path => '../LocalLib/BaseModule'
-
+ pod 'Lib2'
+ 
 end

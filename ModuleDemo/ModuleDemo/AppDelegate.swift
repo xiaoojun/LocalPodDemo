@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import BaseModule
+import Lib2
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

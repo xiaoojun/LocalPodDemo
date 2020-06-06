@@ -1,16 +1,16 @@
 PODS:
-  - BaseModule (0.1.0)
+  - Lib2 (0.1.0)
 
 DEPENDENCIES:
-  - BaseModule (from `../LocalLib/BaseModule`)
+  - Lib2
 
-EXTERNAL SOURCES:
-  BaseModule:
-    :path: "../LocalLib/BaseModule"
+SPEC REPOS:
+  https://e.coding.net/xiaooojun/lib2.git:
+    - Lib2
 
 SPEC CHECKSUMS:
-  BaseModule: 37d8f9a7d2ae0aa82e3371d94d34bf0222bae792
+  Lib2: 1e93c54a3cb921b43195f802c2d32aa5bd2fb1d4
 
-PODFILE CHECKSUM: 90f3a36f835cd9c158ddf1d9cf85ad77502337c6
+PODFILE CHECKSUM: 6762f09905c7186822e312194eaac8fbb44a19ab
 
 COCOAPODS: 1.9.1
